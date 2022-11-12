@@ -13,8 +13,8 @@ import java.util.Date;
 public class JwtUtil {
 
     public   static final long EXPIRE = 24*60*60;//有效期限24hr
-    public static final String TOKEN_SECRET = "####HEYTHEREWELCOMETOCHEZMOIWebtheBestallfromkorea####";//私鑰保存在Server
-    public static final String TOKEN_SECRET_PWD = "####HEYTHEREtheBestallfromkoreaWELCOMETOCHEZMOIWebForgotPwD####";
+    public static final String TOKEN_SECRET = "####fjridldlssssmxjxhdheudkjdlkfoekejshxkcldddldjkrhnzmalllalalkorea####";//私鑰保存在Server
+    public static final String TOKEN_SECRET_PWD = "####HEYTHErfkeosksiwjddhfudndddddjcjdisjsllseaWELCOMETOCHEZMOIWebForgotPwD####";
     /**
      *
      * @param email
