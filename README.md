@@ -25,7 +25,7 @@ A E-commerce-website In iSpan Java
 
 首頁
 
-<img src="C:\Users\怡靜陳\AppData\Roaming\Typora\typora-user-images\image-20221112222150125.png" alt="image-20221112222150125" style="zoom:25%;" />
+![image](https://github.com/AJing17/E-commerce-website/blob/main/homepage_1.png)
 
 
 
