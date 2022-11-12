@@ -2,7 +2,9 @@
 
 A E-commerce-website In iSpan Java
 須注意:SMTP 須自己申請，檔案內為範例。
+
 後臺登入因為限制問題:使用前可先取消攔截器，直接進入觀看。
+
 前台一樣會有登入問題:同上。
 
 使用技術:
@@ -31,19 +33,19 @@ A E-commerce-website In iSpan Java
 
 後臺登入畫面
 
-![image-20221112222358808](C:\Users\怡靜陳\AppData\Roaming\Typora\typora-user-images\image-20221112222358808.png)
+![image](https://github.com/AJing17/E-commerce-website/blob/main/image-20221112222358808.png)
 
 
 
 管理者管理頁面
 
-![image-20221112222735185](C:\Users\怡靜陳\AppData\Roaming\Typora\typora-user-images\image-20221112222735185.png)
+![image](https://github.com/AJing17/E-commerce-website/blob/main/image-20221112222735185.png)
 
 商品上架頁面
 
-![image-20221112222850130](C:\Users\怡靜陳\AppData\Roaming\Typora\typora-user-images\image-20221112222850130.png)
+![image](https://github.com/AJing17/E-commerce-website/blob/main/image-20221112222850130.png)
 
 商品查看頁面
 
-![image-20221112222924238](C:\Users\怡靜陳\AppData\Roaming\Typora\typora-user-images\image-20221112222924238.png)
+![image](https://github.com/AJing17/E-commerce-website/blob/main/image-20221112222924238.png)
 
