@@ -1,6 +1,7 @@
 # E-commerce-website
 
 A E-commerce-website In iSpan Java
+
 須注意:SMTP 須自己申請，檔案內為範例。
 
 後臺登入因為限制問題:使用前可先取消攔截器，直接進入觀看。
@@ -24,12 +25,6 @@ A E-commerce-website In iSpan Java
 
 
 以下展示部分頁面:
-
-首頁
-
-![image](https://github.com/AJing17/E-commerce-website/blob/main/homepage_1.png)
-
-
 
 後臺登入畫面
 
